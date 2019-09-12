@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\api\HFPTradingClient.h">
+      <Filter>api</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\timer.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\nano_executor.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\nano_queue2.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\util.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\async_writer.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\auto_file.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\mthelp.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\nano_log2.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\logger_instance\logger_instance.h">
+      <Filter>logger_instance</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\AdapterApiDefine.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\checker.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\checker2.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\exception_wrapper.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\FakeFakDelaySet.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\FakeFakSet.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\order_cache.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\tars\ticks_writer.h">
+      <Filter>tars</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\common.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\json_writer.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\misc_functional.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\misc_str.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\options.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\rr_scheduler.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\socket_msg.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\misc\token_parser.h">
+      <Filter>misc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="api">
+      <UniqueIdentifier>{71724758-ef5f-416e-a3fa-c05c5c63da02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="misc">
+      <UniqueIdentifier>{2d38086b-b291-4da6-9bc8-6ad4a3b1e3e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tars">
+      <UniqueIdentifier>{848509e7-49ee-479d-a625-f366cfccfb3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="logger_instance">
+      <UniqueIdentifier>{60bbd56c-1467-4357-a987-c56af7a76a90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\api\HFP-Trading-Client.lib">
+      <Filter>api</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\misc\timer.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\misc\auto_file.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\misc\mthelp.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tars\FakeFakDelaySet.cpp">
+      <Filter>tars</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tars\FakeFakSet.cpp">
+      <Filter>tars</Filter>
+    </ClCompile>
+    <ClCompile Include="..\tars\util.cpp">
+      <Filter>tars</Filter>
+    </ClCompile>
+    <ClCompile Include="..\misc\misc_str.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\misc\options.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\misc\token_parser.cpp">
+      <Filter>misc</Filter>
+    </ClCompile>
+    <ClCompile Include="..\HfpMarketData\main.cpp" />
+  </ItemGroup>
+</Project>
