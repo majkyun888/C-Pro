@@ -1,0 +1,117 @@
+# OS and machine
+UNAME=$(shell uname)
+HOSTNAME=$(shell hostname)
+
+# Type of the target.
+#   LIBNOTEST: library only.
+#   LIBRARY: a library with a test program.
+#   PROGRAM: one program only.
+#   SHARED: so.
+Target_Type=PROGRAM
+
+# Name of the target.
+#   If Target_Type is LIBNOTEST, build libxxx.a
+#   If Target_Type is LIBRARY, build libxxx.a and xxx_test(.exe).
+#   If Target_Type is PROGRAM, build xxx(.exe).
+#   If Target_Type is SHARED, build xxx.so.
+Target_Name=HfpQuoteAPI_Demo
+
+# Where are we going to put the library?
+Library_Path=.
+
+# Where are we going to put the test and the program and shared?
+Program_Path=.
+
+# Source files and including dirs.
+Sources = ./HfpMarketData/main.cpp \
+    ./misc/misc_str.cpp \
+    ./misc/timer.cpp \
+    ./misc/token_parser.cpp \
+    ./misc/options.cpp \
+    ./misc/auto_file.cpp \
+    ./misc/mthelp.cpp \
+    
+
+
+# Testing source files and including dirs for Target_Type=LIBRARY
+Test_Sources=
+Test_Includes=
+
+ifeq ($(UNAME), Linux)
+
+Includes=./api \
+    ./misc \
+    ./tars \
+    ./logger_instance
+CXXFLAGS=-m64 -Wno-non-virtual-dtor -Wno-format -Wno-parentheses -Wno-sign-compare -Wno-reorder -fPIC
+LDFLAGS=-m64 -lm -lrt -lpthread -L./api -lHFPTradingClient
+
+else
+
+$(error Win32 not supported. Please use VC++.)
+
+endif
+
+# Default configuration. See below.
+Config?=opt
+
+# Configurations
+#   debug: all debugging information and assertions without optimization
+#   prof: profiling with debugging information and assertions
+#   opt: optimized with debugging information and assertions
+#   release: full optimization without debug
+#
+#   When you begin write your code, use debug.
+#   When you want to tune the program, use prof.
+#   When you want to get data for papers, use opt.
+#   If opt cannot meet you speed requirement, try release.
+#
+#   Avoid changing an existing one. Please add your favorite configuration below those four.
+#
+ifeq "$(Config)" "debug"
+  Opt_CC=-g -DDEBUG -D_DEBUG
+  Opt_CXX=$(Opt_CC)
+  LDOpt_LD=
+  Target_Suffix=D
+else
+ifeq "$(Config)" "prof"
+  Opt_CC=-g -pg -O2 -DNDEBUG -D_NDEBUG
+  Opt_CXX=$(Opt_CC)
+  Opt_LD=-pg
+  Target_Suffix=P
+else
+ifeq "$(Config)" "opt"
+  Opt_CC=-g -O -DDEBUG -D_DEBUG
+  Opt_CXX=$(Opt_CC)
+  Opt_LD=
+  Target_Suffix=
+else
+ifeq "$(Config)" "release"
+  Opt_CC=-O2 -DNDEBUG -D_NDEBUG
+  Opt_CXX=$(Opt_CC)
+  Opt_LD=
+  Target_Suffix=R
+else
+  $(error Unknown Config=$(Config))
+endif
+endif
+endif
+endif
+
+# COLORS
+CLR_TRM=\033[0m
+CLR_TTL=\033[1;32;40m
+CLR_CHG=\033[33;40m
+CLR_CMD=\033[36;40m
+
+# install binary
+.PHONY: install_bin
+
+all: install_bin
+
+install_bin: $(Target_Program)
+	@echo -e '$(CLR_TTL)installing to release$(CLR_TRM)'
+	mkdir -p release/Data
+	mv $(Target_Program) release
+#	cp quote*.sh release
+	cp -d ./api/libHFPTradingClient.so release
