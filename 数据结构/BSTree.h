@@ -228,6 +228,17 @@ private:
 			return successor;
 		}
 	}
+
+	void Destory(Node* node)
+	{
+		if (NULL == node) return;
+
+		Destory(node->left);
+		Destory(node->right);
+		node->left = node->right = NULL;
+		delete node;
+		node = NULL;
+	}
 public:
 	BSTree()
 	{
@@ -235,6 +246,14 @@ public:
 		size = 0;
 	}
 
+	~BSTree()
+	{
+		if (root)
+		{
+			Destory(root);
+		}
+		root = NULL;
+	}
 	/*void add(E e)
 	{
 		if (NULL == root)
