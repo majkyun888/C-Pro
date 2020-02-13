@@ -27,7 +27,8 @@ void insertSort(T arr[], int n)
 template <typename T>
 void insertSort2(T arr[], int n)
 {
-	for (int i = 1; i < n; i++) {
+	for (int i = 1; i < n; i++)
+	{
 		T temp = arr[i];
 		int j;
 		for (j = i; j > 0 && arr[j - 1] > temp; j--)
