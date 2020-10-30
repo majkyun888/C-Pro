@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets">
+    <Import Project="D:\PropertySheet.props" />
+  </ImportGroup>
+  <PropertyGroup>
+    <IncludePath>C:\Program Files (x86)\Intel\openvino_2021.1.110\deployment_tools\inference_engine\include;C:\Program Files (x86)\Intel\openvino_2021.1.110\deployment_tools\inference_engine\samples\cpp\common\format_reader;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\include\opencv2;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\include;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\bin;F:\boost_1_74_0;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\liubingqiang\Documents\Intel\OpenVINO\inference_engine_cpp_samples_build\x64\Re;C:\Program Files (x86)\Intel\openvino_2021.1.110\deployment_tools\inference_engine\lib\intel64\Release;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalLibraryDirectories>C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\lib;F:\boost_1_74_0\stage\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>inference_engined.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\lib\opencv_highgui450.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\lib\opencv_videoio450.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\lib\opencv_imgcodecs450.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\lib\opencv_imgproc450.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\opencv\lib\opencv_core450.lib;pdh.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\deployment_tools\inference_engine\lib\intel64\Release\inference_engine_legacy.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\deployment_tools\inference_engine\lib\intel64\Release\inference_engine.lib;C:\Program Files (x86)\Intel\openvino_2021.1.110\deployment_tools\inference_engine\lib\intel64\Release\inference_engine_c_api.lib;shlwapi.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+</Project>
