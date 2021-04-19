@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <IncludePath>C:\opencv\opencv-3.4\opencv\buildVc14\install\include;$(IncludePath)</IncludePath>
+    <LibraryPath Condition="'$(Configuration)'=='Release'">C:\opencv\opencv-3.4\opencv\buildVc14\install\x86\vc14\lib;$(LibraryPath)</LibraryPath>
+    <LibraryPath Condition="'$(Configuration)'=='Debug'">C:\opencv\opencv-3.4\opencv\buildVc14\install\x86\vc14\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link Condition="'$(Configuration)'=='Debug'">
+      <AdditionalDependencies>opencv_calib3d340d.lib;opencv_core340d.lib;opencv_dnn340d.lib;opencv_features2d340d.lib;opencv_flann340d.lib;opencv_highgui340d.lib;opencv_imgcodecs340d.lib;opencv_imgproc340d.lib;opencv_ml340d.lib;opencv_objdetect340d.lib;opencv_photo340d.lib;opencv_shape340d.lib;opencv_stitching340d.lib;opencv_superres340d.lib;opencv_video340d.lib;opencv_videoio340d.lib;opencv_videostab340d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+    </Link>
+    <Link Condition="'$(Configuration)'=='Release'">
+      <AdditionalDependencies>opencv_calib3d340.lib;opencv_core340.lib;opencv_dnn340.lib;opencv_features2d340.lib;opencv_flann340.lib;opencv_highgui340.lib;opencv_imgcodecs340.lib;opencv_imgproc340.lib;opencv_ml340.lib;opencv_objdetect340.lib;opencv_photo340.lib;opencv_shape340.lib;opencv_stitching340.lib;opencv_superres340.lib;opencv_video340.lib;opencv_videoio340.lib;opencv_videostab340.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+    </Link>
+    <ClCompile>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>

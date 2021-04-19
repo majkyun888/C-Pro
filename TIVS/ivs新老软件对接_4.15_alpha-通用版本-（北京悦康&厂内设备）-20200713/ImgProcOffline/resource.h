@@ -1,0 +1,124 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 生成的包含文件。
+// 供 ImgProcOffline.rc 使用
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_IMGPROCOFFLINE_DIALOG       102
+#define IDR_MAINFRAME                   128
+#define IDD_D_PARA_INTER                130
+#define IDC_BTN_PROC_ST                 1000
+#define IDC_BTN_SEL_ROOT_DIR            1001
+#define IDC_DIS_TXT                     1002
+#define IDC_ET_PARTICLE_PIC_NUM         1003
+#define IDC_ET_PRTICLE_PT_NUM           1004
+#define IDC_BTN_ROI_SEL                 1005
+#define IDC_CMB_DEFAULT_PATTERN         1005
+#define IDC_ET_PRTICLE_RATIO            1006
+#define IDC_BTN_DEFAULT_PARA            1006
+#define IDC_ET_PRTICLE_SENSITY          1007
+#define IDC_CK_FIND_LEVEL               1007
+#define IDC_ET_DELAY_TIME_FRAME         1008
+#define IDC_CK_FIND_SIDE                1008
+#define IDC_ET_IMGS_PATH                1009
+#define IDC_CK_REG_SIDE                 1009
+#define IDC_BTN_CHECK_FILE_PATH         1010
+#define IDC_CK_FIND_BOTTOM              1010
+#define IDC_ET_DELAY_TIME2              1011
+#define IDC_ET_DELAY_TIME_SEQ           1011
+#define IDC_CK_REG_BOTTOM               1011
+#define IDC_BTN_READ_PARA_FROM_XML      1012
+#define IDC_BUTTON2                     1013
+#define IDC_BTN_WRITE_PARA_TO_XML       1013
+#define IDC_EDIT1                       1014
+#define IDC_ET_CAM_IDX                  1014
+#define IDC_E_LEVEL_BR                  1014
+#define IDC_BTN_APPLY                   1015
+#define IDC_BTN_ROI_SEL2                1015
+#define IDC_BTN_RT_BLINK_CLEAR_ALL      1015
+#define IDC_BTN_PARA_INTER              1016
+#define IDC_E_LEVEL_CNT                 1017
+#define IDC_BTN_BATCH_PATH              1017
+#define IDC_E_LEVEL_SHIFTUP             1018
+#define IDC_COMBO1                      1018
+#define IDC_CMB_PAUSE_MODE              1018
+#define IDC_E_LEVEL_SHIFTDOWN           1019
+#define IDC_E_SIDE_BR                   1020
+#define IDC_E_BOTTOM_CNT                1021
+#define IDC_E_BOTTOM_BR                 1022
+#define IDC_E_BOTTOM_THICK              1023
+#define IDC_E_POINT_SFT_X               1024
+#define IDC_E_POINT_SFT_Y               1025
+#define IDC_E_LOCY_BR                   1026
+#define IDC_E_LOCY_CNT                  1027
+#define IDC_E_DIFF_BR                   1028
+#define IDC_E_DIFF_CNT                  1029
+#define IDC_E_RANGEDETECT_MIN           1030
+#define IDC_E_LENMAX                    1031
+#define IDC_E_LENMIN                    1032
+#define IDC_E_LENMIN2                   1033
+#define IDC_E_SCAN_UP                   1033
+#define IDC_E_POINT_LIGHT_SPOT_X        1034
+#define IDC_E_POINT_SPOT_LIGHT_Y        1035
+#define IDC_E_BLINK_THR                 1036
+#define IDC_E_BLINK_RANG_X_LEFT         1037
+#define IDC_E_BLINK_RANGE_Y_MAX         1038
+#define IDC_E_BLINK_RANGE_Y_MIN         1039
+#define IDC_E_BLINK_RANG_X2             1040
+#define IDC_E_BLINK_RANG_X_RIGHT        1040
+#define IDC_E_SCAN_UP2                  1041
+#define IDC_E_RGL                       1041
+#define IDC_EDIT2                       1042
+#define IDC_E_maskCorner_left_x         1042
+#define IDC_ET_BATCH_ST                 1042
+#define IDC_EDIT3                       1043
+#define IDC_E_maskCorner_left_y         1043
+#define IDC_ET_BATCH_END                1043
+#define IDC_E_val_dynamic_filter        1044
+#define IDC_CMB_BATCH_MODE              1044
+#define IDC_E_DyEordeSize               1045
+#define IDC_CMB_RLT_SAVE                1045
+#define IDC_E_BLINK_THR2                1046
+#define IDC_E_knDyTimes                 1046
+#define IDC_CMB_IMG_BRIGHT              1046
+#define IDC_EDIT4                       1047
+#define IDC_E_maskCorner_right_x        1047
+#define IDC_ET_COPY_SRC                 1047
+#define IDC_E_maskCorner_left_width     1048
+#define IDC_EDIT6                       1048
+#define IDC_ET_COPY_DST                 1048
+#define IDC_E_maskCorner_right_width    1049
+#define IDC_BTN_COPY                    1049
+#define IDC_E_BLINK_RANGE_Y_MIN2        1050
+#define IDC_E_maskCorner_right_height   1050
+#define IDC_CMB_COPY_SRC                1050
+#define IDC_E_maskCorner_left_height    1051
+#define IDC_CMB_COPY_DST                1051
+#define IDC_EDIT5                       1052
+#define IDC_E_maskCorner_right_y        1052
+#define IDC_ET_COPY_ST                  1052
+#define IDC_ET_COPY_END                 1053
+#define IDC_E_bg_ie                     1053
+#define IDC_E_bg_is                     1054
+#define IDC_E_bg_minvar_e               1055
+#define IDC_E_bg_minvar_s               1056
+#define IDC_E_bg_occurBg                1057
+#define IDC_E_bg_sensity                1058
+#define IDC_E_bg_var0_e                 1059
+#define IDC_E_bg_var0_s                 1060
+#define IDC_E_bg_varthres_e             1061
+#define IDC_E_bg_varthres_s             1062
+#define IDC_E_bg_varthres_s2            1063
+#define IDC_E_bg_var_weight             1063
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        132
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1054
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif

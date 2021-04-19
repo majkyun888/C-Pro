@@ -1,0 +1,1268 @@
+// Create On: 2019-09-10 13:28:09[143ms]
+#2019-09-10 21:28:09[145ms]: ----------------------------
+#2019-09-10 21:28:09[145ms]: ----------------------------
+#2019-09-10 21:28:09[145ms]: 本软件启动后第一次使用OpenCV检测2019_09_10_21_28_09
+#2019-09-10 21:28:09[149ms]: RunThread is start
+#2019-09-10 21:29:05[417ms]: ----------------------------
+#2019-09-10 21:29:05[417ms]: ----------------------------
+#2019-09-10 21:29:05[417ms]: 本软件启动后第一次使用OpenCV检测2019_09_10_21_29_05
+#2019-09-10 21:29:05[420ms]: RunThread is start
+#2019-09-10 21:29:05[474ms]: RunThread is start
+#2019-09-10 21:29:05[478ms]: RunThread is start
+#2019-09-10 21:29:05[482ms]: RunThread is start
+#2019-09-10 21:29:05[485ms]: RunThread is start
+#2019-09-10 21:29:05[488ms]: RunThread is start
+#2019-09-10 21:29:05[491ms]: RunThread is start
+#2019-09-10 21:29:05[495ms]: RunThread is start
+#2019-09-10 21:29:05[498ms]: RunThread is start
+#2019-09-10 21:29:05[502ms]: RunThread is start
+#2019-09-10 21:29:05[505ms]: RunThread is start
+#2019-09-10 21:29:05[508ms]: RunThread is start
+#2019-09-10 21:29:05[511ms]: RunThread is start
+#2019-09-10 21:29:05[515ms]: RunThread is start
+#2019-09-10 21:29:05[518ms]: RunThread is start
+#2019-09-10 21:29:05[521ms]: RunThread is start
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[658ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[658ms]: image process error , program may exit
+#2019-09-10 21:29:05[662ms]: image process error , program may exit
+#2019-09-10 21:29:05[675ms]: image process error , program may exit
+#2019-09-10 21:29:05[698ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[702ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[705ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[709ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[716ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:05[722ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[728ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0004~2019-09-10_21H_29M_05S_605ms_false\，粒子张数19
+#2019-09-10 21:29:05[731ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[733ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[733ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[733ms]: imcolorRlt is empty
+#2019-09-10 21:29:05[742ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:05[746ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:05[746ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:05[746ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:05[752ms]: image process error , program may exit
+#2019-09-10 21:29:05[764ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[155ms]: image process error , program may exit
+#2019-09-10 21:29:06[155ms]: image process error , program may exit
+#2019-09-10 21:29:06[155ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[155ms]: Image process cost time is 257
+#2019-09-10 21:29:06[160ms]: image process error , program may exit
+#2019-09-10 21:29:06[160ms]: image process error , program may exit
+#2019-09-10 21:29:06[160ms]: Image process cost time is 267
+#2019-09-10 21:29:06[160ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[172ms]: image process error , program may exit
+#2019-09-10 21:29:06[172ms]: Image process cost time is 302
+#2019-09-10 21:29:06[172ms]: image process error , program may exit
+#2019-09-10 21:29:06[172ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[187ms]: Image process cost time is 295
+#2019-09-10 21:29:06[187ms]: image process error , program may exit
+#2019-09-10 21:29:06[187ms]: image process error , program may exit
+#2019-09-10 21:29:06[187ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[190ms]: Image process cost time is 328
+#2019-09-10 21:29:06[194ms]: image process error , program may exit
+#2019-09-10 21:29:06[207ms]: image process error , program may exit
+#2019-09-10 21:29:06[209ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0007~2019-09-10_21H_29M_05S_657ms_false\，粒子张数19
+#2019-09-10 21:29:06[209ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[209ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[209ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[209ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[209ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[220ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[222ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[222ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[224ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[224ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[224ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[235ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[398ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: Image process cost time is 258
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[617ms]: image process error , program may exit
+#2019-09-10 21:29:06[623ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[623ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[629ms]: image process error , program may exit
+#2019-09-10 21:29:06[631ms]: Image process cost time is 318
+#2019-09-10 21:29:06[631ms]: Image process cost time is 319
+#2019-09-10 21:29:06[639ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[639ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[639ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[640ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[641ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[643ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[645ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[648ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[648ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[648ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[648ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[649ms]: imcolorRlt is empty
+#2019-09-10 21:29:06[652ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[655ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[656ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[660ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:06[687ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0015~2019-09-10_21H_29M_06S_170ms_false\，粒子张数20
+#2019-09-10 21:29:06[846ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[058ms]: image process error , program may exit
+#2019-09-10 21:29:07[058ms]: image process error , program may exit
+#2019-09-10 21:29:07[058ms]: image process error , program may exit
+#2019-09-10 21:29:07[058ms]: image process error , program may exit
+#2019-09-10 21:29:07[058ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[058ms]: Image process cost time is 286
+#2019-09-10 21:29:07[058ms]: image process error , program may exit
+#2019-09-10 21:29:07[058ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[058ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[078ms]: image process error , program may exit
+#2019-09-10 21:29:07[078ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[078ms]: Image process cost time is 256
+#2019-09-10 21:29:07[088ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[102ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[102ms]: Image process cost time is 273
+#2019-09-10 21:29:07[102ms]: image process error , program may exit
+#2019-09-10 21:29:07[102ms]: Image process cost time is 336
+#2019-09-10 21:29:07[102ms]: image process error , program may exit
+#2019-09-10 21:29:07[102ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[111ms]: Image process cost time is 345
+#2019-09-10 21:29:07[111ms]: Image process cost time is 351
+#2019-09-10 21:29:07[111ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[111ms]: Image process cost time is 291
+#2019-09-10 21:29:07[120ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[120ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[122ms]: Image process cost time is 364
+#2019-09-10 21:29:07[130ms]: Image process cost time is 374
+#2019-09-10 21:29:07[130ms]: Image process cost time is 374
+#2019-09-10 21:29:07[143ms]: image process error , program may exit
+#2019-09-10 21:29:07[150ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[153ms]: Image process cost time is 331
+#2019-09-10 21:29:07[171ms]: image process error , program may exit
+#2019-09-10 21:29:07[201ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0032~2019-09-10_21H_29M_06S_984ms_false\，粒子张数19
+#2019-09-10 21:29:07[224ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[285ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[452ms]: image process error , program may exit
+#2019-09-10 21:29:07[452ms]: image process error , program may exit
+#2019-09-10 21:29:07[452ms]: image process error , program may exit
+#2019-09-10 21:29:07[452ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[452ms]: image process error , program may exit
+#2019-09-10 21:29:07[454ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[499ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[499ms]: Image process cost time is 261
+#2019-09-10 21:29:07[499ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[499ms]: Image process cost time is 268
+#2019-09-10 21:29:07[548ms]: image process error , program may exit
+#2019-09-10 21:29:07[562ms]: imcolorRlt is empty
+#2019-09-10 21:29:07[597ms]: Image process cost time is 347
+#2019-09-10 21:29:07[617ms]: image process error , program may exit
+#2019-09-10 21:29:07[662ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[662ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[666ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[666ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[666ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[889ms]: image process error , program may exit
+#2019-09-10 21:29:07[889ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:07[889ms]: image process error , program may exit
+#2019-09-10 21:29:07[889ms]: image process error , program may exit
+#2019-09-10 21:29:07[889ms]: image process error , program may exit
+#2019-09-10 21:29:07[963ms]: image process error , program may exit
+#2019-09-10 21:29:07[963ms]: image process error , program may exit
+#2019-09-10 21:29:08[076ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[076ms]: image process error , program may exit
+#2019-09-10 21:29:08[076ms]: image process error , program may exit
+#2019-09-10 21:29:08[076ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[076ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[076ms]: image process error , program may exit
+#2019-09-10 21:29:08[077ms]: Image process cost time is 412
+#2019-09-10 21:29:08[082ms]: Image process cost time is 438
+#2019-09-10 21:29:08[093ms]: Image process cost time is 422
+#2019-09-10 21:29:08[135ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[135ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[135ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[135ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[135ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[135ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[135ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[187ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0041~2019-09-10_21H_29M_07S_364ms_false\，粒子张数19
+#2019-09-10 21:29:08[187ms]: image process error , program may exit
+#2019-09-10 21:29:08[385ms]: image process error , program may exit
+#2019-09-10 21:29:08[385ms]: image process error , program may exit
+#2019-09-10 21:29:08[385ms]: image process error , program may exit
+#2019-09-10 21:29:08[385ms]: image process error , program may exit
+#2019-09-10 21:29:08[385ms]: image process error , program may exit
+#2019-09-10 21:29:08[385ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[385ms]: image process error , program may exit
+#2019-09-10 21:29:08[399ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[399ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[399ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[399ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[399ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[399ms]: Image process cost time is 263
+#2019-09-10 21:29:08[406ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[407ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[407ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[407ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[418ms]: Image process cost time is 267
+#2019-09-10 21:29:08[436ms]: image process error , program may exit
+#2019-09-10 21:29:08[472ms]: image process error , program may exit
+#2019-09-10 21:29:08[492ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[496ms]: Image process cost time is 361
+#2019-09-10 21:29:08[699ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[699ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[699ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[699ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[822ms]: image process error , program may exit
+#2019-09-10 21:29:08[822ms]: image process error , program may exit
+#2019-09-10 21:29:08[822ms]: Image process cost time is 256
+#2019-09-10 21:29:08[822ms]: image process error , program may exit
+#2019-09-10 21:29:08[822ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[822ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[891ms]: image process error , program may exit
+#2019-09-10 21:29:08[891ms]: image process error , program may exit
+#2019-09-10 21:29:08[891ms]: Image process cost time is 309
+#2019-09-10 21:29:08[891ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[891ms]: Image process cost time is 307
+#2019-09-10 21:29:08[891ms]: image process error , program may exit
+#2019-09-10 21:29:08[950ms]: image process error , program may exit
+#2019-09-10 21:29:08[952ms]: image process error , program may exit
+#2019-09-10 21:29:08[964ms]: image process error , program may exit
+#2019-09-10 21:29:08[968ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0050~2019-09-10_21H_29M_07S_863ms_false\，粒子张数19
+#2019-09-10 21:29:08[971ms]: image process error , program may exit
+#2019-09-10 21:29:08[975ms]: imcolorRlt is empty
+#2019-09-10 21:29:08[982ms]: Image process cost time is 371
+#2019-09-10 21:29:08[985ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[988ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[990ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:08[991ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[097ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[215ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[215ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[215ms]: image process error , program may exit
+#2019-09-10 21:29:09[215ms]: image process error , program may exit
+#2019-09-10 21:29:09[215ms]: image process error , program may exit
+#2019-09-10 21:29:09[411ms]: image process error , program may exit
+#2019-09-10 21:29:09[411ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[411ms]: image process error , program may exit
+#2019-09-10 21:29:09[411ms]: image process error , program may exit
+#2019-09-10 21:29:09[412ms]: image process error , program may exit
+#2019-09-10 21:29:09[421ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[422ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[422ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[422ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[422ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[424ms]: Image process cost time is 324
+#2019-09-10 21:29:09[430ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[430ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[430ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[430ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[452ms]: image process error , program may exit
+#2019-09-10 21:29:09[480ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[482ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[495ms]: image process error , program may exit
+#2019-09-10 21:29:09[498ms]: image process error , program may exit
+#2019-09-10 21:29:09[509ms]: image process error , program may exit
+#2019-09-10 21:29:09[566ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[665ms]: image process error , program may exit
+#2019-09-10 21:29:09[665ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[665ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[769ms]: image process error , program may exit
+#2019-09-10 21:29:09[769ms]: image process error , program may exit
+#2019-09-10 21:29:09[769ms]: image process error , program may exit
+#2019-09-10 21:29:09[769ms]: image process error , program may exit
+#2019-09-10 21:29:09[833ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[833ms]: image process error , program may exit
+#2019-09-10 21:29:09[883ms]: image process error , program may exit
+#2019-09-10 21:29:09[883ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[883ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[883ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[883ms]: Image process cost time is 360
+#2019-09-10 21:29:09[883ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[885ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:09[914ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[924ms]: Image process cost time is 332
+#2019-09-10 21:29:09[932ms]: image process error , program may exit
+#2019-09-10 21:29:09[932ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0073~2019-09-10_21H_29M_08S_964ms_false\，粒子张数19
+#2019-09-10 21:29:09[947ms]: image process error , program may exit
+#2019-09-10 21:29:09[947ms]: image process error , program may exit
+#2019-09-10 21:29:09[963ms]: imcolorRlt is empty
+#2019-09-10 21:29:09[968ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[009ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[009ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[009ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[009ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[228ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[228ms]: image process error , program may exit
+#2019-09-10 21:29:10[342ms]: image process error , program may exit
+#2019-09-10 21:29:10[342ms]: image process error , program may exit
+#2019-09-10 21:29:10[342ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[342ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[350ms]: image process error , program may exit
+#2019-09-10 21:29:10[351ms]: image process error , program may exit
+#2019-09-10 21:29:10[351ms]: Image process cost time is 381
+#2019-09-10 21:29:10[357ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[357ms]: image process error , program may exit
+#2019-09-10 21:29:10[357ms]: image process error , program may exit
+#2019-09-10 21:29:10[358ms]: Image process cost time is 389
+#2019-09-10 21:29:10[368ms]: image process error , program may exit
+#2019-09-10 21:29:10[376ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[377ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[398ms]: Image process cost time is 373
+#2019-09-10 21:29:10[398ms]: Image process cost time is 403
+#2019-09-10 21:29:10[398ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[403ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[418ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[419ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[428ms]: image process error , program may exit
+#2019-09-10 21:29:10[461ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[463ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[500ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[551ms]: image process error , program may exit
+#2019-09-10 21:29:10[654ms]: image process error , program may exit
+#2019-09-10 21:29:10[733ms]: image process error , program may exit
+#2019-09-10 21:29:10[774ms]: image process error , program may exit
+#2019-09-10 21:29:10[836ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[836ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[836ms]: image process error , program may exit
+#2019-09-10 21:29:10[836ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:10[836ms]: image process error , program may exit
+#2019-09-10 21:29:10[838ms]: Image process cost time is 328
+#2019-09-10 21:29:10[838ms]: Image process cost time is 360
+#2019-09-10 21:29:10[853ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[856ms]: Image process cost time is 381
+#2019-09-10 21:29:10[857ms]: imcolorRlt is empty
+#2019-09-10 21:29:10[859ms]: Image process cost time is 382
+#2019-09-10 21:29:11[079ms]: image process error , program may exit
+#2019-09-10 21:29:11[079ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[079ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[079ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[079ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[079ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[079ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[079ms]: image process error , program may exit
+#2019-09-10 21:29:11[079ms]: image process error , program may exit
+#2019-09-10 21:29:11[079ms]: image process error , program may exit
+#2019-09-10 21:29:11[234ms]: image process error , program may exit
+#2019-09-10 21:29:11[234ms]: image process error , program may exit
+#2019-09-10 21:29:11[234ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[234ms]: Image process cost time is 258
+#2019-09-10 21:29:11[234ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0093~2019-09-10_21H_29M_09S_932ms_false\，粒子张数19
+#2019-09-10 21:29:11[234ms]: image process error , program may exit
+#2019-09-10 21:29:11[266ms]: image process error , program may exit
+#2019-09-10 21:29:11[370ms]: image process error , program may exit
+#2019-09-10 21:29:11[370ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[370ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[370ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[370ms]: Image process cost time is 388
+#2019-09-10 21:29:11[370ms]: Image process cost time is 387
+#2019-09-10 21:29:11[370ms]: Image process cost time is 389
+#2019-09-10 21:29:11[370ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[466ms]: image process error , program may exit
+#2019-09-10 21:29:11[466ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[466ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[466ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[466ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[466ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[466ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[466ms]: image process error , program may exit
+#2019-09-10 21:29:11[466ms]: image process error , program may exit
+#2019-09-10 21:29:11[466ms]: image process error , program may exit
+#2019-09-10 21:29:11[495ms]: image process error , program may exit
+#2019-09-10 21:29:11[495ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[579ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[579ms]: image process error , program may exit
+#2019-09-10 21:29:11[579ms]: image process error , program may exit
+#2019-09-10 21:29:11[589ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[589ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[589ms]: Image process cost time is 298
+#2019-09-10 21:29:11[667ms]: image process error , program may exit
+#2019-09-10 21:29:11[667ms]: image process error , program may exit
+#2019-09-10 21:29:11[667ms]: image process error , program may exit
+#2019-09-10 21:29:11[667ms]: image process error , program may exit
+#2019-09-10 21:29:11[667ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[685ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[691ms]: Image process cost time is 401
+#2019-09-10 21:29:11[694ms]: image process error , program may exit
+#2019-09-10 21:29:11[699ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[710ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[733ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0114~2019-09-10_21H_29M_11S_134ms_false\，粒子张数19
+#2019-09-10 21:29:11[741ms]: image process error , program may exit
+#2019-09-10 21:29:11[747ms]: imcolorRlt is empty
+#2019-09-10 21:29:11[749ms]: Image process cost time is 302
+#2019-09-10 21:29:11[759ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[828ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[990ms]: image process error , program may exit
+#2019-09-10 21:29:11[990ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:11[990ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[134ms]: image process error , program may exit
+#2019-09-10 21:29:12[134ms]: image process error , program may exit
+#2019-09-10 21:29:12[134ms]: image process error , program may exit
+#2019-09-10 21:29:12[134ms]: image process error , program may exit
+#2019-09-10 21:29:12[247ms]: image process error , program may exit
+#2019-09-10 21:29:12[247ms]: image process error , program may exit
+#2019-09-10 21:29:12[247ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[257ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[257ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[257ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[257ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[257ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[257ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[257ms]: image process error , program may exit
+#2019-09-10 21:29:12[262ms]: image process error , program may exit
+#2019-09-10 21:29:12[272ms]: image process error , program may exit
+#2019-09-10 21:29:12[286ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[291ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[636ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[636ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[636ms]: image process error , program may exit
+#2019-09-10 21:29:12[636ms]: image process error , program may exit
+#2019-09-10 21:29:12[636ms]: image process error , program may exit
+#2019-09-10 21:29:12[636ms]: image process error , program may exit
+#2019-09-10 21:29:12[636ms]: image process error , program may exit
+#2019-09-10 21:29:12[715ms]: image process error , program may exit
+#2019-09-10 21:29:12[715ms]: imcolorRlt is empty
+#2019-09-10 21:29:12[715ms]: imcolorRlt is empty
+#2019-09-10 21:29:12[715ms]: imcolorRlt is empty
+#2019-09-10 21:29:12[715ms]: Image process cost time is 343
+#2019-09-10 21:29:12[715ms]: Image process cost time is 359
+#2019-09-10 21:29:12[715ms]: Image process cost time is 358
+#2019-09-10 21:29:12[715ms]: image process error , program may exit
+#2019-09-10 21:29:12[715ms]: imcolorRlt is empty
+#2019-09-10 21:29:12[715ms]: Image process cost time is 378
+#2019-09-10 21:29:12[768ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0131~2019-09-10_21H_29M_11S_741ms_false\，粒子张数19
+#2019-09-10 21:29:12[768ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[768ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[768ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[770ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[782ms]: image process error , program may exit
+#2019-09-10 21:29:12[788ms]: image process error , program may exit
+#2019-09-10 21:29:12[788ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:12[910ms]: image process error , program may exit
+#2019-09-10 21:29:13[093ms]: image process error , program may exit
+#2019-09-10 21:29:13[093ms]: image process error , program may exit
+#2019-09-10 21:29:13[093ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[093ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[093ms]: image process error , program may exit
+#2019-09-10 21:29:13[093ms]: image process error , program may exit
+#2019-09-10 21:29:13[144ms]: image process error , program may exit
+#2019-09-10 21:29:13[183ms]: image process error , program may exit
+#2019-09-10 21:29:13[192ms]: image process error , program may exit
+#2019-09-10 21:29:13[210ms]: imcolorRlt is empty
+#2019-09-10 21:29:13[224ms]: image process error , program may exit
+#2019-09-10 21:29:13[246ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[247ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[248ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[248ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[248ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[248ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[248ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[248ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[248ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[566ms]: image process error , program may exit
+#2019-09-10 21:29:13[566ms]: image process error , program may exit
+#2019-09-10 21:29:13[566ms]: image process error , program may exit
+#2019-09-10 21:29:13[566ms]: image process error , program may exit
+#2019-09-10 21:29:13[566ms]: image process error , program may exit
+#2019-09-10 21:29:13[566ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[566ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0149~2019-09-10_21H_29M_12S_777ms_false\，粒子张数19
+#2019-09-10 21:29:13[590ms]: image process error , program may exit
+#2019-09-10 21:29:13[590ms]: imcolorRlt is empty
+#2019-09-10 21:29:13[590ms]: imcolorRlt is empty
+#2019-09-10 21:29:13[590ms]: imcolorRlt is empty
+#2019-09-10 21:29:13[590ms]: Image process cost time is 323
+#2019-09-10 21:29:13[590ms]: Image process cost time is 324
+#2019-09-10 21:29:13[590ms]: Image process cost time is 323
+#2019-09-10 21:29:13[610ms]: imcolorRlt is empty
+#2019-09-10 21:29:13[649ms]: Image process cost time is 353
+#2019-09-10 21:29:13[649ms]: image process error , program may exit
+#2019-09-10 21:29:13[711ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[711ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[711ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[711ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[717ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[718ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:13[892ms]: image process error , program may exit
+#2019-09-10 21:29:13[892ms]: image process error , program may exit
+#2019-09-10 21:29:13[892ms]: image process error , program may exit
+#2019-09-10 21:29:13[939ms]: image process error , program may exit
+#2019-09-10 21:29:13[939ms]: image process error , program may exit
+#2019-09-10 21:29:14[008ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[008ms]: image process error , program may exit
+#2019-09-10 21:29:14[008ms]: image process error , program may exit
+#2019-09-10 21:29:14[029ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[029ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[029ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[089ms]: image process error , program may exit
+#2019-09-10 21:29:14[089ms]: Image process cost time is 306
+#2019-09-10 21:29:14[089ms]: Image process cost time is 302
+#2019-09-10 21:29:14[089ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[089ms]: image process error , program may exit
+#2019-09-10 21:29:14[111ms]: image process error , program may exit
+#2019-09-10 21:29:14[157ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0163~2019-09-10_21H_29M_13S_489ms_false\，粒子张数19
+#2019-09-10 21:29:14[165ms]: image process error , program may exit
+#2019-09-10 21:29:14[173ms]: image process error , program may exit
+#2019-09-10 21:29:14[193ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[195ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[195ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[195ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[195ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[195ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[228ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[517ms]: image process error , program may exit
+#2019-09-10 21:29:14[517ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[517ms]: image process error , program may exit
+#2019-09-10 21:29:14[517ms]: image process error , program may exit
+#2019-09-10 21:29:14[517ms]: image process error , program may exit
+#2019-09-10 21:29:14[517ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[517ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[517ms]: Image process cost time is 276
+#2019-09-10 21:29:14[517ms]: Image process cost time is 277
+#2019-09-10 21:29:14[517ms]: image process error , program may exit
+#2019-09-10 21:29:14[584ms]: image process error , program may exit
+#2019-09-10 21:29:14[584ms]: image process error , program may exit
+#2019-09-10 21:29:14[592ms]: image process error , program may exit
+#2019-09-10 21:29:14[599ms]: image process error , program may exit
+#2019-09-10 21:29:14[599ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[603ms]: Image process cost time is 374
+#2019-09-10 21:29:14[617ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[619ms]: imcolorRlt is empty
+#2019-09-10 21:29:14[627ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[644ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[644ms]: image process error , program may exit
+#2019-09-10 21:29:14[656ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[658ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[658ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[658ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[658ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[659ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:14[749ms]: image process error , program may exit
+#2019-09-10 21:29:14[765ms]: image process error , program may exit
+#2019-09-10 21:29:14[845ms]: image process error , program may exit
+#2019-09-10 21:29:14[967ms]: image process error , program may exit
+#2019-09-10 21:29:15[139ms]: image process error , program may exit
+#2019-09-10 21:29:15[139ms]: image process error , program may exit
+#2019-09-10 21:29:15[139ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0177~2019-09-10_21H_29M_14S_165ms_false\，粒子张数19
+#2019-09-10 21:29:15[139ms]: image process error , program may exit
+#2019-09-10 21:29:15[139ms]: image process error , program may exit
+#2019-09-10 21:29:15[139ms]: image process error , program may exit
+#2019-09-10 21:29:15[149ms]: imcolorRlt is empty
+#2019-09-10 21:29:15[151ms]: Image process cost time is 374
+#2019-09-10 21:29:15[153ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[153ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[153ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[153ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[153ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[153ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[155ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[156ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[162ms]: image process error , program may exit
+#2019-09-10 21:29:15[177ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[177ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[483ms]: image process error , program may exit
+#2019-09-10 21:29:15[483ms]: image process error , program may exit
+#2019-09-10 21:29:15[483ms]: Image process cost time is 256
+#2019-09-10 21:29:15[483ms]: image process error , program may exit
+#2019-09-10 21:29:15[483ms]: image process error , program may exit
+#2019-09-10 21:29:15[483ms]: imcolorRlt is empty
+#2019-09-10 21:29:15[483ms]: Image process cost time is 276
+#2019-09-10 21:29:15[522ms]: image process error , program may exit
+#2019-09-10 21:29:15[522ms]: imcolorRlt is empty
+#2019-09-10 21:29:15[522ms]: Image process cost time is 317
+#2019-09-10 21:29:15[522ms]: image process error , program may exit
+#2019-09-10 21:29:15[522ms]: imcolorRlt is empty
+#2019-09-10 21:29:15[522ms]: Image process cost time is 331
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:15[715ms]: image process error , program may exit
+#2019-09-10 21:29:15[715ms]: image process error , program may exit
+#2019-09-10 21:29:15[715ms]: image process error , program may exit
+#2019-09-10 21:29:15[715ms]: image process error , program may exit
+#2019-09-10 21:29:15[769ms]: image process error , program may exit
+#2019-09-10 21:29:15[769ms]: image process error , program may exit
+#2019-09-10 21:29:15[887ms]: imcolorRlt is empty
+#2019-09-10 21:29:15[887ms]: image process error , program may exit
+#2019-09-10 21:29:15[887ms]: image process error , program may exit
+#2019-09-10 21:29:15[888ms]: imcolorRlt is empty
+#2019-09-10 21:29:15[891ms]: Image process cost time is 339
+#2019-09-10 21:29:16[018ms]: image process error , program may exit
+#2019-09-10 21:29:16[018ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0192~2019-09-10_21H_29M_14S_878ms_false\，粒子张数19
+#2019-09-10 21:29:16[018ms]: image process error , program may exit
+#2019-09-10 21:29:16[018ms]: image process error , program may exit
+#2019-09-10 21:29:16[018ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[018ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[018ms]: Image process cost time is 383
+#2019-09-10 21:29:16[031ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[033ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[034ms]: Image process cost time is 373
+#2019-09-10 21:29:16[036ms]: Image process cost time is 400
+#2019-09-10 21:29:16[100ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[103ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[201ms]: image process error , program may exit
+#2019-09-10 21:29:16[201ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[201ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[201ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[201ms]: image process error , program may exit
+#2019-09-10 21:29:16[307ms]: image process error , program may exit
+#2019-09-10 21:29:16[307ms]: image process error , program may exit
+#2019-09-10 21:29:16[307ms]: Image process cost time is 254
+#2019-09-10 21:29:16[330ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[330ms]: Image process cost time is 271
+#2019-09-10 21:29:16[330ms]: image process error , program may exit
+#2019-09-10 21:29:16[330ms]: image process error , program may exit
+#2019-09-10 21:29:16[332ms]: Image process cost time is 286
+#2019-09-10 21:29:16[352ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[354ms]: Image process cost time is 308
+#2019-09-10 21:29:16[389ms]: image process error , program may exit
+#2019-09-10 21:29:16[402ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[406ms]: Image process cost time is 362
+#2019-09-10 21:29:16[485ms]: image process error , program may exit
+#2019-09-10 21:29:16[492ms]: image process error , program may exit
+#2019-09-10 21:29:16[501ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[504ms]: Image process cost time is 400
+#2019-09-10 21:29:16[508ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[508ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[514ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[592ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[654ms]: image process error , program may exit
+#2019-09-10 21:29:16[654ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[654ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[654ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:16[792ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0212~2019-09-10_21H_29M_15S_886ms_false\，粒子张数19
+#2019-09-10 21:29:16[792ms]: image process error , program may exit
+#2019-09-10 21:29:16[835ms]: image process error , program may exit
+#2019-09-10 21:29:16[836ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[836ms]: image process error , program may exit
+#2019-09-10 21:29:16[836ms]: image process error , program may exit
+#2019-09-10 21:29:16[836ms]: image process error , program may exit
+#2019-09-10 21:29:16[837ms]: Image process cost time is 308
+#2019-09-10 21:29:16[852ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[855ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[858ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[860ms]: Image process cost time is 341
+#2019-09-10 21:29:16[860ms]: Image process cost time is 343
+#2019-09-10 21:29:16[860ms]: Image process cost time is 341
+#2019-09-10 21:29:16[886ms]: image process error , program may exit
+#2019-09-10 21:29:16[901ms]: image process error , program may exit
+#2019-09-10 21:29:16[901ms]: image process error , program may exit
+#2019-09-10 21:29:16[901ms]: image process error , program may exit
+#2019-09-10 21:29:16[905ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[905ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[909ms]: Image process cost time is 392
+#2019-09-10 21:29:16[910ms]: Image process cost time is 393
+#2019-09-10 21:29:16[913ms]: imcolorRlt is empty
+#2019-09-10 21:29:16[919ms]: Image process cost time is 400
+#2019-09-10 21:29:17[062ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[062ms]: image process error , program may exit
+#2019-09-10 21:29:17[127ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[127ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[127ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[180ms]: image process error , program may exit
+#2019-09-10 21:29:17[208ms]: image process error , program may exit
+#2019-09-10 21:29:17[266ms]: image process error , program may exit
+#2019-09-10 21:29:17[298ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[298ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[330ms]: image process error , program may exit
+#2019-09-10 21:29:17[331ms]: image process error , program may exit
+#2019-09-10 21:29:17[331ms]: image process error , program may exit
+#2019-09-10 21:29:17[331ms]: Image process cost time is 379
+#2019-09-10 21:29:17[331ms]: Image process cost time is 377
+#2019-09-10 21:29:17[331ms]: image process error , program may exit
+#2019-09-10 21:29:17[341ms]: image process error , program may exit
+#2019-09-10 21:29:17[372ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[373ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[375ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[375ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[384ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[447ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0225~2019-09-10_21H_29M_16S_609ms_false\，粒子张数19
+#2019-09-10 21:29:17[565ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[565ms]: image process error , program may exit
+#2019-09-10 21:29:17[565ms]: image process error , program may exit
+#2019-09-10 21:29:17[565ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[565ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[565ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[618ms]: image process error , program may exit
+#2019-09-10 21:29:17[656ms]: image process error , program may exit
+#2019-09-10 21:29:17[656ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[656ms]: Image process cost time is 258
+#2019-09-10 21:29:17[674ms]: image process error , program may exit
+#2019-09-10 21:29:17[697ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[718ms]: Image process cost time is 306
+#2019-09-10 21:29:17[766ms]: image process error , program may exit
+#2019-09-10 21:29:17[766ms]: image process error , program may exit
+#2019-09-10 21:29:17[766ms]: image process error , program may exit
+#2019-09-10 21:29:17[778ms]: image process error , program may exit
+#2019-09-10 21:29:17[778ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[778ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[778ms]: Image process cost time is 384
+#2019-09-10 21:29:17[785ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[787ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[794ms]: Image process cost time is 401
+#2019-09-10 21:29:17[835ms]: image process error , program may exit
+#2019-09-10 21:29:17[851ms]: image process error , program may exit
+#2019-09-10 21:29:17[855ms]: image process error , program may exit
+#2019-09-10 21:29:17[857ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[866ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[868ms]: imcolorRlt is empty
+#2019-09-10 21:29:17[874ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[878ms]: Image process cost time is 319
+#2019-09-10 21:29:17[880ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:17[882ms]: image process error , program may exit
+#2019-09-10 21:29:18[032ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[032ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[192ms]: image process error , program may exit
+#2019-09-10 21:29:18[192ms]: image process error , program may exit
+#2019-09-10 21:29:18[192ms]: image process error , program may exit
+#2019-09-10 21:29:18[192ms]: image process error , program may exit
+#2019-09-10 21:29:18[232ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[232ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[232ms]: Image process cost time is 316
+#2019-09-10 21:29:18[232ms]: Image process cost time is 315
+#2019-09-10 21:29:18[309ms]: image process error , program may exit
+#2019-09-10 21:29:18[315ms]: image process error , program may exit
+#2019-09-10 21:29:18[368ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[368ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[368ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[368ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[368ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[368ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[419ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[419ms]: image process error , program may exit
+#2019-09-10 21:29:18[419ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0244~2019-09-10_21H_29M_17S_552ms_false\，粒子张数19
+#2019-09-10 21:29:18[491ms]: image process error , program may exit
+#2019-09-10 21:29:18[491ms]: image process error , program may exit
+#2019-09-10 21:29:18[491ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[491ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[526ms]: image process error , program may exit
+#2019-09-10 21:29:18[606ms]: image process error , program may exit
+#2019-09-10 21:29:18[606ms]: image process error , program may exit
+#2019-09-10 21:29:18[606ms]: image process error , program may exit
+#2019-09-10 21:29:18[667ms]: image process error , program may exit
+#2019-09-10 21:29:18[667ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[667ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[667ms]: Image process cost time is 284
+#2019-09-10 21:29:18[667ms]: Image process cost time is 297
+#2019-09-10 21:29:18[702ms]: image process error , program may exit
+#2019-09-10 21:29:18[705ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[706ms]: Image process cost time is 356
+#2019-09-10 21:29:18[720ms]: image process error , program may exit
+#2019-09-10 21:29:18[720ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[723ms]: Image process cost time is 360
+#2019-09-10 21:29:18[724ms]: image process error , program may exit
+#2019-09-10 21:29:18[726ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[740ms]: imcolorRlt is empty
+#2019-09-10 21:29:18[743ms]: Image process cost time is 254
+#2019-09-10 21:29:18[847ms]: image process error , program may exit
+#2019-09-10 21:29:18[847ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[847ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[847ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[847ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[881ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:18[978ms]: image process error , program may exit
+#2019-09-10 21:29:19[001ms]: image process error , program may exit
+#2019-09-10 21:29:19[001ms]: image process error , program may exit
+#2019-09-10 21:29:19[048ms]: image process error , program may exit
+#2019-09-10 21:29:19[048ms]: image process error , program may exit
+#2019-09-10 21:29:19[101ms]: image process error , program may exit
+#2019-09-10 21:29:19[101ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[101ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[101ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[101ms]: Image process cost time is 304
+#2019-09-10 21:29:19[101ms]: Image process cost time is 307
+#2019-09-10 21:29:19[101ms]: Image process cost time is 303
+#2019-09-10 21:29:19[141ms]: image process error , program may exit
+#2019-09-10 21:29:19[144ms]: image process error , program may exit
+#2019-09-10 21:29:19[146ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[148ms]: Image process cost time is 373
+#2019-09-10 21:29:19[157ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[159ms]: Image process cost time is 380
+#2019-09-10 21:29:19[165ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[168ms]: Image process cost time is 390
+#2019-09-10 21:29:19[207ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0261~2019-09-10_21H_29M_18S_315ms_false\，粒子张数19
+#2019-09-10 21:29:19[222ms]: image process error , program may exit
+#2019-09-10 21:29:19[228ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[231ms]: Image process cost time is 396
+#2019-09-10 21:29:19[235ms]: image process error , program may exit
+#2019-09-10 21:29:19[285ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[286ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[286ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[343ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[580ms]: Image process cost time is 264
+#2019-09-10 21:29:19[580ms]: image process error , program may exit
+#2019-09-10 21:29:19[580ms]: image process error , program may exit
+#2019-09-10 21:29:19[586ms]: image process error , program may exit
+#2019-09-10 21:29:19[615ms]: image process error , program may exit
+#2019-09-10 21:29:19[615ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[615ms]: Image process cost time is 332
+#2019-09-10 21:29:19[629ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[632ms]: Image process cost time is 357
+#2019-09-10 21:29:19[668ms]: image process error , program may exit
+#2019-09-10 21:29:19[668ms]: imcolorRlt is empty
+#2019-09-10 21:29:19[668ms]: Image process cost time is 365
+#2019-09-10 21:29:19[668ms]: image process error , program may exit
+#2019-09-10 21:29:19[689ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[692ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[730ms]: image process error , program may exit
+#2019-09-10 21:29:19[730ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[730ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[731ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[731ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[731ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[777ms]: image process error , program may exit
+#2019-09-10 21:29:19[777ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:19[827ms]: image process error , program may exit
+#2019-09-10 21:29:19[909ms]: image process error , program may exit
+#2019-09-10 21:29:19[909ms]: image process error , program may exit
+#2019-09-10 21:29:20[037ms]: image process error , program may exit
+#2019-09-10 21:29:20[037ms]: image process error , program may exit
+#2019-09-10 21:29:20[037ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[037ms]: image process error , program may exit
+#2019-09-10 21:29:20[037ms]: Image process cost time is 311
+#2019-09-10 21:29:20[059ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[067ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[111ms]: image process error , program may exit
+#2019-09-10 21:29:20[111ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0281~2019-09-10_21H_29M_19S_222ms_false\，粒子张数19
+#2019-09-10 21:29:20[146ms]: image process error , program may exit
+#2019-09-10 21:29:20[161ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[161ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[163ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[210ms]: image process error , program may exit
+#2019-09-10 21:29:20[210ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[210ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[210ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[210ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[210ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[246ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[289ms]: image process error , program may exit
+#2019-09-10 21:29:20[403ms]: image process error , program may exit
+#2019-09-10 21:29:20[403ms]: image process error , program may exit
+#2019-09-10 21:29:20[403ms]: image process error , program may exit
+#2019-09-10 21:29:20[403ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[403ms]: image process error , program may exit
+#2019-09-10 21:29:20[461ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[461ms]: image process error , program may exit
+#2019-09-10 21:29:20[461ms]: Image process cost time is 261
+#2019-09-10 21:29:20[461ms]: image process error , program may exit
+#2019-09-10 21:29:20[468ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[472ms]: Image process cost time is 272
+#2019-09-10 21:29:20[507ms]: image process error , program may exit
+#2019-09-10 21:29:20[516ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[518ms]: Image process cost time is 349
+#2019-09-10 21:29:20[552ms]: image process error , program may exit
+#2019-09-10 21:29:20[555ms]: image process error , program may exit
+#2019-09-10 21:29:20[558ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[561ms]: Image process cost time is 391
+#2019-09-10 21:29:20[561ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[562ms]: Image process cost time is 321
+#2019-09-10 21:29:20[572ms]: image process error , program may exit
+#2019-09-10 21:29:20[652ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[652ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[670ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[670ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[670ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:20[830ms]: image process error , program may exit
+#2019-09-10 21:29:20[875ms]: image process error , program may exit
+#2019-09-10 21:29:20[875ms]: Image process cost time is 253
+#2019-09-10 21:29:20[875ms]: image process error , program may exit
+#2019-09-10 21:29:20[875ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[908ms]: image process error , program may exit
+#2019-09-10 21:29:20[908ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[908ms]: imcolorRlt is empty
+#2019-09-10 21:29:20[908ms]: Image process cost time is 319
+#2019-09-10 21:29:20[908ms]: Image process cost time is 317
+#2019-09-10 21:29:20[908ms]: image process error , program may exit
+#2019-09-10 21:29:20[915ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0297~2019-09-10_21H_29M_20S_098ms_false\，粒子张数19
+#2019-09-10 21:29:20[988ms]: image process error , program may exit
+#2019-09-10 21:29:21[064ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[064ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[064ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[064ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[064ms]: image process error , program may exit
+#2019-09-10 21:29:21[109ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[111ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[111ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[111ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[208ms]: image process error , program may exit
+#2019-09-10 21:29:21[208ms]: image process error , program may exit
+#2019-09-10 21:29:21[243ms]: image process error , program may exit
+#2019-09-10 21:29:21[295ms]: image process error , program may exit
+#2019-09-10 21:29:21[295ms]: image process error , program may exit
+#2019-09-10 21:29:21[351ms]: image process error , program may exit
+#2019-09-10 21:29:21[351ms]: imcolorRlt is empty
+#2019-09-10 21:29:21[351ms]: Image process cost time is 354
+#2019-09-10 21:29:21[405ms]: image process error , program may exit
+#2019-09-10 21:29:21[423ms]: image process error , program may exit
+#2019-09-10 21:29:21[471ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[471ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[559ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[559ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[559ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[559ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[559ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[594ms]: image process error , program may exit
+#2019-09-10 21:29:21[594ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[594ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[594ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[631ms]: image process error , program may exit
+#2019-09-10 21:29:21[631ms]: image process error , program may exit
+#2019-09-10 21:29:21[643ms]: image process error , program may exit
+#2019-09-10 21:29:21[672ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0314~2019-09-10_21H_29M_20S_899ms_false\，粒子张数19
+#2019-09-10 21:29:21[710ms]: image process error , program may exit
+#2019-09-10 21:29:21[710ms]: image process error , program may exit
+#2019-09-10 21:29:21[807ms]: image process error , program may exit
+#2019-09-10 21:29:21[807ms]: imcolorRlt is empty
+#2019-09-10 21:29:21[807ms]: Image process cost time is 325
+#2019-09-10 21:29:21[914ms]: image process error , program may exit
+#2019-09-10 21:29:21[914ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[914ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[914ms]: image process error , program may exit
+#2019-09-10 21:29:21[921ms]: imcolorRlt is empty
+#2019-09-10 21:29:21[921ms]: imcolorRlt is empty
+#2019-09-10 21:29:21[921ms]: Image process cost time is 395
+#2019-09-10 21:29:21[921ms]: Image process cost time is 372
+#2019-09-10 21:29:21[964ms]: image process error , program may exit
+#2019-09-10 21:29:21[964ms]: image process error , program may exit
+#2019-09-10 21:29:21[968ms]: imcolorRlt is empty
+#2019-09-10 21:29:21[969ms]: Image process cost time is 375
+#2019-09-10 21:29:21[979ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[979ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:21[980ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[061ms]: image process error , program may exit
+#2019-09-10 21:29:22[061ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[061ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[171ms]: image process error , program may exit
+#2019-09-10 21:29:22[171ms]: image process error , program may exit
+#2019-09-10 21:29:22[197ms]: image process error , program may exit
+#2019-09-10 21:29:22[203ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[216ms]: imcolorRlt is empty
+#2019-09-10 21:29:22[225ms]: imcolorRlt is empty
+#2019-09-10 21:29:22[253ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0327~2019-09-10_21H_29M_21S_631ms_false\，粒子张数19
+#2019-09-10 21:29:22[264ms]: image process error , program may exit
+#2019-09-10 21:29:22[296ms]: image process error , program may exit
+#2019-09-10 21:29:22[296ms]: imcolorRlt is empty
+#2019-09-10 21:29:22[297ms]: Image process cost time is 307
+#2019-09-10 21:29:22[308ms]: image process error , program may exit
+#2019-09-10 21:29:22[317ms]: imcolorRlt is empty
+#2019-09-10 21:29:22[319ms]: Image process cost time is 345
+#2019-09-10 21:29:22[426ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[460ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[460ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[460ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[460ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[582ms]: image process error , program may exit
+#2019-09-10 21:29:22[582ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[582ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[582ms]: image process error , program may exit
+#2019-09-10 21:29:22[582ms]: image process error , program may exit
+#2019-09-10 21:29:22[649ms]: Image process cost time is 255
+#2019-09-10 21:29:22[689ms]: image process error , program may exit
+#2019-09-10 21:29:22[689ms]: image process error , program may exit
+#2019-09-10 21:29:22[689ms]: image process error , program may exit
+#2019-09-10 21:29:22[718ms]: imcolorRlt is empty
+#2019-09-10 21:29:22[718ms]: Image process cost time is 312
+#2019-09-10 21:29:22[718ms]: imcolorRlt is empty
+#2019-09-10 21:29:22[721ms]: Image process cost time is 325
+#2019-09-10 21:29:22[766ms]: imcolorRlt is empty
+#2019-09-10 21:29:22[769ms]: Image process cost time is 374
+#2019-09-10 21:29:22[792ms]: image process error , program may exit
+#2019-09-10 21:29:22[846ms]: image process error , program may exit
+#2019-09-10 21:29:22[846ms]: image process error , program may exit
+#2019-09-10 21:29:22[852ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[900ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[900ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[900ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[900ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:22[962ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[007ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[007ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[028ms]: image process error , program may exit
+#2019-09-10 21:29:23[141ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0336~2019-09-10_21H_29M_22S_048ms_false\，粒子张数19
+#2019-09-10 21:29:23[151ms]: image process error , program may exit
+#2019-09-10 21:29:23[151ms]: image process error , program may exit
+#2019-09-10 21:29:23[151ms]: image process error , program may exit
+#2019-09-10 21:29:23[151ms]: image process error , program may exit
+#2019-09-10 21:29:23[151ms]: image process error , program may exit
+#2019-09-10 21:29:23[155ms]: imcolorRlt is empty
+#2019-09-10 21:29:23[155ms]: imcolorRlt is empty
+#2019-09-10 21:29:23[157ms]: Image process cost time is 302
+#2019-09-10 21:29:23[158ms]: Image process cost time is 303
+#2019-09-10 21:29:23[219ms]: image process error , program may exit
+#2019-09-10 21:29:23[219ms]: image process error , program may exit
+#2019-09-10 21:29:23[219ms]: image process error , program may exit
+#2019-09-10 21:29:23[264ms]: image process error , program may exit
+#2019-09-10 21:29:23[275ms]: imcolorRlt is empty
+#2019-09-10 21:29:23[278ms]: Image process cost time is 383
+#2019-09-10 21:29:23[309ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[309ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[337ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[378ms]: image process error , program may exit
+#2019-09-10 21:29:23[378ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[378ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[422ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[473ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[473ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[514ms]: image process error , program may exit
+#2019-09-10 21:29:23[593ms]: image process error , program may exit
+#2019-09-10 21:29:23[593ms]: image process error , program may exit
+#2019-09-10 21:29:23[593ms]: image process error , program may exit
+#2019-09-10 21:29:23[593ms]: image process error , program may exit
+#2019-09-10 21:29:23[593ms]: image process error , program may exit
+#2019-09-10 21:29:23[641ms]: imcolorRlt is empty
+#2019-09-10 21:29:23[641ms]: imcolorRlt is empty
+#2019-09-10 21:29:23[641ms]: Image process cost time is 328
+#2019-09-10 21:29:23[641ms]: Image process cost time is 328
+#2019-09-10 21:29:23[697ms]: image process error , program may exit
+#2019-09-10 21:29:23[697ms]: imcolorRlt is empty
+#2019-09-10 21:29:23[697ms]: image process error , program may exit
+#2019-09-10 21:29:23[697ms]: Image process cost time is 380
+#2019-09-10 21:29:23[762ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[765ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0351~2019-09-10_21H_29M_22S_839ms_false\，粒子张数19
+#2019-09-10 21:29:23[769ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[799ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[799ms]: image process error , program may exit
+#2019-09-10 21:29:23[825ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[825ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[878ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[940ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:23[940ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[027ms]: image process error , program may exit
+#2019-09-10 21:29:24[027ms]: image process error , program may exit
+#2019-09-10 21:29:24[138ms]: image process error , program may exit
+#2019-09-10 21:29:24[138ms]: image process error , program may exit
+#2019-09-10 21:29:24[138ms]: image process error , program may exit
+#2019-09-10 21:29:24[138ms]: image process error , program may exit
+#2019-09-10 21:29:24[155ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[157ms]: Image process cost time is 319
+#2019-09-10 21:29:24[159ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[160ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[170ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[171ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[261ms]: image process error , program may exit
+#2019-09-10 21:29:24[287ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[287ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[289ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[289ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[323ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[350ms]: image process error , program may exit
+#2019-09-10 21:29:24[350ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[394ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[394ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[461ms]: image process error , program may exit
+#2019-09-10 21:29:24[518ms]: image process error , program may exit
+#2019-09-10 21:29:24[518ms]: image process error , program may exit
+#2019-09-10 21:29:24[518ms]: image process error , program may exit
+#2019-09-10 21:29:24[578ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[578ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[578ms]: Image process cost time is 307
+#2019-09-10 21:29:24[616ms]: image process error , program may exit
+#2019-09-10 21:29:24[616ms]: image process error , program may exit
+#2019-09-10 21:29:24[616ms]: image process error , program may exit
+#2019-09-10 21:29:24[616ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0370~2019-09-10_21H_29M_23S_687ms_false\，粒子张数19
+#2019-09-10 21:29:24[630ms]: image process error , program may exit
+#2019-09-10 21:29:24[630ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[630ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[638ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[638ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[659ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[661ms]: Image process cost time is 372
+#2019-09-10 21:29:24[685ms]: image process error , program may exit
+#2019-09-10 21:29:24[697ms]: image process error , program may exit
+#2019-09-10 21:29:24[701ms]: imcolorRlt is empty
+#2019-09-10 21:29:24[712ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[722ms]: image process error , program may exit
+#2019-09-10 21:29:24[739ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[741ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[742ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[787ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:24[843ms]: image process error , program may exit
+#2019-09-10 21:29:24[843ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[061ms]: image process error , program may exit
+#2019-09-10 21:29:25[077ms]: image process error , program may exit
+#2019-09-10 21:29:25[128ms]: image process error , program may exit
+#2019-09-10 21:29:25[128ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[130ms]: Image process cost time is 350
+#2019-09-10 21:29:25[165ms]: image process error , program may exit
+#2019-09-10 21:29:25[165ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[165ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[165ms]: Image process cost time is 387
+#2019-09-10 21:29:25[165ms]: Image process cost time is 390
+#2019-09-10 21:29:25[165ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[165ms]: Image process cost time is 386
+#2019-09-10 21:29:25[194ms]: image process error , program may exit
+#2019-09-10 21:29:25[220ms]: image process error , program may exit
+#2019-09-10 21:29:25[223ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[223ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[232ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[234ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[236ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[239ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[323ms]: image process error , program may exit
+#2019-09-10 21:29:25[323ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[492ms]: image process error , program may exit
+#2019-09-10 21:29:25[492ms]: image process error , program may exit
+#2019-09-10 21:29:25[492ms]: image process error , program may exit
+#2019-09-10 21:29:25[492ms]: Image process cost time is 257
+#2019-09-10 21:29:25[492ms]: Image process cost time is 258
+#2019-09-10 21:29:25[492ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[496ms]: Image process cost time is 264
+#2019-09-10 21:29:25[496ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[498ms]: Image process cost time is 259
+#2019-09-10 21:29:25[545ms]: image process error , program may exit
+#2019-09-10 21:29:25[563ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0384~2019-09-10_21H_29M_24S_611ms_false\，粒子张数19
+#2019-09-10 21:29:25[584ms]: image process error , program may exit
+#2019-09-10 21:29:25[617ms]: image process error , program may exit
+#2019-09-10 21:29:25[617ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[617ms]: Image process cost time is 379
+#2019-09-10 21:29:25[637ms]: image process error , program may exit
+#2019-09-10 21:29:25[688ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[695ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[725ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[725ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[725ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[725ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[725ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[800ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:25[800ms]: image process error , program may exit
+#2019-09-10 21:29:25[864ms]: image process error , program may exit
+#2019-09-10 21:29:25[928ms]: image process error , program may exit
+#2019-09-10 21:29:25[928ms]: image process error , program may exit
+#2019-09-10 21:29:25[986ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[986ms]: imcolorRlt is empty
+#2019-09-10 21:29:25[986ms]: Image process cost time is 278
+#2019-09-10 21:29:25[986ms]: Image process cost time is 312
+#2019-09-10 21:29:26[016ms]: image process error , program may exit
+#2019-09-10 21:29:26[016ms]: image process error , program may exit
+#2019-09-10 21:29:26[046ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[048ms]: Image process cost time is 358
+#2019-09-10 21:29:26[071ms]: image process error , program may exit
+#2019-09-10 21:29:26[159ms]: image process error , program may exit
+#2019-09-10 21:29:26[159ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[159ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[159ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[159ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[159ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[159ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[159ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[204ms]: image process error , program may exit
+#2019-09-10 21:29:26[302ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[302ms]: image process error , program may exit
+#2019-09-10 21:29:26[302ms]: image process error , program may exit
+#2019-09-10 21:29:26[302ms]: image process error , program may exit
+#2019-09-10 21:29:26[350ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[352ms]: Image process cost time is 268
+#2019-09-10 21:29:26[360ms]: image process error , program may exit
+#2019-09-10 21:29:26[365ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[395ms]: image process error , program may exit
+#2019-09-10 21:29:26[395ms]: image process error , program may exit
+#2019-09-10 21:29:26[406ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[408ms]: Image process cost time is 285
+#2019-09-10 21:29:26[409ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[412ms]: Image process cost time is 330
+#2019-09-10 21:29:26[419ms]: image process error , program may exit
+#2019-09-10 21:29:26[544ms]: image process error , program may exit
+#2019-09-10 21:29:26[544ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[629ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[629ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[629ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[629ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[629ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[629ms]: image process error , program may exit
+#2019-09-10 21:29:26[629ms]: image process error , program may exit
+#2019-09-10 21:29:26[629ms]: image process error , program may exit
+#2019-09-10 21:29:26[648ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[648ms]: image process error , program may exit
+#2019-09-10 21:29:26[648ms]: image process error , program may exit
+#2019-09-10 21:29:26[648ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[698ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[704ms]: image process error , program may exit
+#2019-09-10 21:29:26[772ms]: image process error , program may exit
+#2019-09-10 21:29:26[772ms]: image process error , program may exit
+#2019-09-10 21:29:26[775ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[781ms]: Image process cost time is 355
+#2019-09-10 21:29:26[781ms]: image process error , program may exit
+#2019-09-10 21:29:26[801ms]: image process error , program may exit
+#2019-09-10 21:29:26[801ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[833ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0401~2019-09-10_21H_29M_25S_512ms_false\，粒子张数19
+#2019-09-10 21:29:26[844ms]: image process error , program may exit
+#2019-09-10 21:29:26[853ms]: image process error , program may exit
+#2019-09-10 21:29:26[854ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[858ms]: imcolorRlt is empty
+#2019-09-10 21:29:26[874ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:26[905ms]: image process error , program may exit
+#2019-09-10 21:29:27[005ms]: image process error , program may exit
+#2019-09-10 21:29:27[005ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[053ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[071ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[119ms]: image process error , program may exit
+#2019-09-10 21:29:27[160ms]: image process error , program may exit
+#2019-09-10 21:29:27[160ms]: image process error , program may exit
+#2019-09-10 21:29:27[160ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[194ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[194ms]: Image process cost time is 296
+#2019-09-10 21:29:27[207ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[207ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[218ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[218ms]: g_hMutex timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[239ms]: image process error , program may exit
+#2019-09-10 21:29:27[279ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[281ms]: Image process cost time is 400
+#2019-09-10 21:29:27[305ms]: image process error , program may exit
+#2019-09-10 21:29:27[339ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[339ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[339ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[483ms]: image process error , program may exit
+#2019-09-10 21:29:27[483ms]: image process error , program may exit
+#2019-09-10 21:29:27[483ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[483ms]: image process error , program may exit
+#2019-09-10 21:29:27[494ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[547ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[547ms]: image process error , program may exit
+#2019-09-10 21:29:27[547ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[549ms]: Image process cost time is 387
+#2019-09-10 21:29:27[579ms]: image process error , program may exit
+#2019-09-10 21:29:27[594ms]: image process error , program may exit
+#2019-09-10 21:29:27[594ms]: image process error , program may exit
+#2019-09-10 21:29:27[616ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[616ms]: image process error , program may exit
+#2019-09-10 21:29:27[616ms]: Image process cost time is 304
+#2019-09-10 21:29:27[639ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[641ms]: Image process cost time is 329
+#2019-09-10 21:29:27[769ms]: image process error , program may exit
+#2019-09-10 21:29:27[771ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[773ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[786ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[787ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[789ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[871ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0430~2019-09-10_21H_29M_26S_844ms_false\，粒子张数19
+#2019-09-10 21:29:27[875ms]: image process error , program may exit
+#2019-09-10 21:29:27[881ms]: imcolorRlt is empty
+#2019-09-10 21:29:27[888ms]: Image process cost time is 343
+#2019-09-10 21:29:27[890ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[941ms]: image process error , program may exit
+#2019-09-10 21:29:27[949ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:27[952ms]: image process error , program may exit
+#2019-09-10 21:29:27[966ms]: image process error , program may exit
+#2019-09-10 21:29:27[997ms]: g_hevtResultReturned timeout in  mainThrad dwResultReturned
+#2019-09-10 21:29:28[028ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0447~2019-09-10_21H_29M_27S_875ms_false\，粒子张数19
+#2019-09-10 21:29:28[139ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0001~2019-09-10_21H_29M_05S_599ms_false\，粒子张数19
+#2019-09-10 21:29:28[242ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0002~2019-09-10_21H_29M_05S_599ms_false\，粒子张数19
+#2019-09-10 21:29:28[350ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0005~2019-09-10_21H_29M_05S_608ms_false\，粒子张数19
+#2019-09-10 21:29:28[458ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0008~2019-09-10_21H_29M_05S_662ms_false\，粒子张数19
+#2019-09-10 21:29:28[819ms]: image process error , program may exit
+#2019-09-10 21:29:28[841ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0451~2019-09-10_21H_29M_28S_819ms_false\，粒子张数19
+#2019-09-10 21:29:28[929ms]: image process error , program may exit
+#2019-09-10 21:29:28[974ms]: 保存路径D:\Pic\2019_09_10_21_29_05\00\false\~00_0452~2019-09-10_21H_29M_28S_929ms_false\，粒子张数19
