@@ -1,0 +1,654 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Inglese (Stati Uniti) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR 56, 31
+BEGIN
+    BUTTON      IDS_LOAD_IMAGE
+    SEPARATOR
+    BUTTON      IDS_PROCESS_IMAGE
+    SEPARATOR
+    BUTTON      IDS_TEST
+    SEPARATOR
+    BUTTON      IDS_THREAD_ONOFF
+    SEPARATOR
+    BUTTON      IDS_CAMERA
+    SEPARATOR
+    BUTTON      IDS_LOAD_PARAMS
+    SEPARATOR
+    BUTTON      IDS_SAVE_PARAMS
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "&Undo\tCtrl+Z",               ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "Cu&t\tCtrl+X",                ID_EDIT_CUT
+        MENUITEM "&Copy\tCtrl+C",               ID_EDIT_COPY
+        MENUITEM "&Paste\tCtrl+V",              ID_EDIT_PASTE
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+    END
+    POPUP "Extra"
+    BEGIN
+        MENUITEM "Load image",                  IDS_LOAD_IMAGE
+        MENUITEM "Process image",               IDS_PROCESS_IMAGE
+        MENUITEM "Test",                        IDS_TEST
+        MENUITEM "Thread running",              IDS_THREAD_ONOFF
+        MENUITEM "Camera",                      IDS_CAMERA
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About Visiquick...",         ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS
+BEGIN
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL, NOINVERT
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT, NOINVERT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT, NOINVERT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY, NOINVERT
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT, NOINVERT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT, NOINVERT
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL, NOINVERT
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 344, 189
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_POPUP | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,21,20
+    LTEXT           "Visiquick, Version 1.0",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2008",IDC_STATIC,42,26,114,8
+    DEFPUSHBUTTON   "OK",IDOK,287,168,50,14,WS_GROUP
+    LTEXT           "Static",IDC_STATIC,44,66,229,65
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904e4"
+        BEGIN
+            VALUE "CompanyName", "MARPOSS SPA"
+            VALUE "FileDescription", "Visiquick inspection program"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "Vsqk.exe"
+            VALUE "LegalCopyright", "ing Stefano Arletti"
+            VALUE "OriginalFilename", "Vsqk.exe"
+            VALUE "ProductName", "Visiquick"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 337
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 182
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDR_MAINFRAME           "Visiquick"
+    IDS_PROCESS_IMAGE       "Process image"
+    IDS_LOAD_IMAGE          "Load image"
+    IDS_TEST                "Test"
+    IDS_THREAD_ONOFF        "Start/stop thread"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_APP_TITLE       "Visiquick"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+#endif    // Inglese (Stati Uniti) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Italiano (Italia) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ITA)
+LANGUAGE LANG_ITALIAN, SUBLANG_ITALIAN
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_INFO_WINDOW DIALOGEX 0, 0, 209, 53
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_BORDER
+EXSTYLE WS_EX_TOPMOST
+FONT 12, "Verdana", 400, 0, 0x0
+BEGIN
+    CTEXT           "Static",IDC_TEXT_1,7,7,195,14
+    CTEXT           "Static",IDC_TEXT_2,7,26,195,20
+END
+
+IDD_INPUT_FIGURES DIALOGEX 0, 0, 167, 158
+STYLE DS_ABSALIGN | DS_SYSMODAL | DS_SETFONT | DS_MODALFRAME | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_VISIBLE
+EXSTYLE WS_EX_TOPMOST | WS_EX_CLIENTEDGE
+FONT 12, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,120,96,42,24
+    PUSHBUTTON      "Annulla",IDCANCEL,120,126,42,24
+    PUSHBUTTON      "1",IDC_BUTTON_1,6,36,30,24
+    PUSHBUTTON      "2",IDC_BUTTON_2,42,36,30,24
+    CTEXT           "Static",IDC_CURRENT_VAL,6,6,156,18,SS_CENTERIMAGE,WS_EX_CLIENTEDGE
+    PUSHBUTTON      "3",IDC_BUTTON_3,78,36,30,24
+    PUSHBUTTON      "4",IDC_BUTTON_4,6,66,30,24
+    PUSHBUTTON      "5",IDC_BUTTON_5,42,66,30,24
+    PUSHBUTTON      "6",IDC_BUTTON_6,78,66,30,24
+    PUSHBUTTON      "7",IDC_BUTTON_7,6,96,30,24
+    PUSHBUTTON      "8",IDC_BUTTON_8,42,96,30,24
+    PUSHBUTTON      "9",IDC_BUTTON_9,78,96,30,24
+    PUSHBUTTON      "0",IDC_BUTTON_0,42,126,30,24
+    PUSHBUTTON      ".",IDC_BUTTON_DOT,6,126,30,24
+    PUSHBUTTON      "+/-",IDC_BUTTON_CHNGSGN,78,126,30,24
+    PUSHBUTTON      "Canc",IDC_BACKSPACE,120,36,42,24
+    PUSHBUTTON      "Clear",IDC_CLEAR,120,66,42,24
+END
+
+IDD_RECIPE_DIALOG DIALOGEX 0, 0, 248, 224
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "Load",ID_LOAD_RECIPE,6,198,42,24
+    PUSHBUTTON      "Save",ID_SAVE_RECIPE,54,198,42,24
+    PUSHBUTTON      "Rename",ID_RENAME_RECIPE,102,198,42,24
+    PUSHBUTTON      "Close",ID_CANCEL,198,198,45,24
+    PUSHBUTTON      "Delete",ID_DELETE_RECIPE,150,198,42,24
+END
+
+IDD_CFR21_DIALOG DIALOGEX 0, 0, 200, 100
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "Login",ID_LOGIN_ENTRY,50,70,40,20
+    PUSHBUTTON      "Exit",ID_LOGIN_EXIT,130,70,40,20
+END
+
+IDD_CFR21_NEW DIALOGEX 0, 0, 250, 150
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "Exit",ID_LOGIN_EXIT,30,120,40,20
+    PUSHBUTTON      "Modify",ID_LOGIN_MODIFY,80,120,40,20
+    PUSHBUTTON      "Delete",ID_LOGIN_DELETE,130,120,40,20
+    PUSHBUTTON      "Logout",ID_LOGIN_LOGOUT,180,120,40,20
+    CONTROL         "",IDC_SPIN1,"msctls_updown32",UDS_ARROWKEYS,30,10,37,55
+    LTEXT           "Static",IDC_SPIN_TEXT,17,80,20,14
+END
+
+IDD_CFR21_SHOW DIALOGEX 0, 0, 200, 300
+STYLE DS_SYSMODAL | DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+EXSTYLE WS_EX_TOPMOST
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "EXPORT",ID_EXPORT_LOG,40,271,40,20
+    PUSHBUTTON      "CLOSE",ID_LOGIN_EXIT,124,270,40,20
+END
+
+IDD_CONTAINER DIALOGEX 0, 0, 154, 194
+STYLE DS_SETFONT | DS_3DLOOK | DS_FIXEDSYS | WS_POPUP | WS_BORDER
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+END
+
+IDD_INPUT_STRING DIALOGEX 0, 0, 424, 174
+STYLE DS_ABSALIGN | DS_SYSMODAL | DS_SETFONT | DS_MODALFRAME | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_VISIBLE
+EXSTYLE WS_EX_TOPMOST | WS_EX_CLIENTEDGE
+FONT 12, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,378,90,42,24
+    PUSHBUTTON      "Annulla",IDCANCEL,378,120,42,24
+    PUSHBUTTON      "1",IDC_BUTTON_1,6,30,30,24
+    PUSHBUTTON      "2",IDC_BUTTON_2,42,30,30,24
+    CTEXT           "Static",IDC_CURRENT_VAL,24,6,354,18,SS_CENTERIMAGE,WS_EX_CLIENTEDGE
+    PUSHBUTTON      "3",IDC_BUTTON_3,78,30,30,24
+    PUSHBUTTON      "4",IDC_BUTTON_4,114,30,30,24
+    PUSHBUTTON      "5",IDC_BUTTON_5,150,30,30,24
+    PUSHBUTTON      "6",IDC_BUTTON_6,186,30,30,24
+    PUSHBUTTON      "7",IDC_BUTTON_7,222,30,30,24
+    PUSHBUTTON      "8",IDC_BUTTON_8,258,30,30,24
+    PUSHBUTTON      "9",IDC_BUTTON_9,294,30,30,24
+    PUSHBUTTON      "0",IDC_BUTTON_0,330,30,30,24
+    PUSHBUTTON      "Canc",IDC_BACKSPACE,378,30,42,24
+    PUSHBUTTON      "Clear",IDC_CLEAR,378,60,42,24
+    PUSHBUTTON      "Q",IDC_BUTTON_Q,12,60,30,24
+    PUSHBUTTON      "W",IDC_BUTTON_W,48,60,30,24
+    PUSHBUTTON      "E",IDC_BUTTON_E,84,60,30,24
+    PUSHBUTTON      "R",IDC_BUTTON_R,120,60,30,24
+    PUSHBUTTON      "T",IDC_BUTTON_T,156,60,30,24
+    PUSHBUTTON      "Y",IDC_BUTTON_Y,192,60,30,24
+    PUSHBUTTON      "U",IDC_BUTTON_U,228,60,30,24
+    PUSHBUTTON      "I",IDC_BUTTON_I,264,60,30,24
+    PUSHBUTTON      "O",IDC_BUTTON_O,300,60,30,24
+    PUSHBUTTON      "P",IDC_BUTTON_P,336,60,30,24
+    PUSHBUTTON      "A",IDC_BUTTON_A,18,90,30,24
+    PUSHBUTTON      "S",IDC_BUTTON_S,54,90,30,24
+    PUSHBUTTON      "D",IDC_BUTTON_D,90,90,30,24
+    PUSHBUTTON      "F",IDC_BUTTON_F,126,90,30,24
+    PUSHBUTTON      "G",IDC_BUTTON_G,162,90,30,24
+    PUSHBUTTON      "H",IDC_BUTTON_H,198,90,30,24
+    PUSHBUTTON      "J",IDC_BUTTON_J,234,90,30,24
+    PUSHBUTTON      "K",IDC_BUTTON_K,270,90,30,24
+    PUSHBUTTON      "L",IDC_BUTTON_L,306,90,30,24
+    PUSHBUTTON      "Z",IDC_BUTTON_Z,24,120,30,24
+    PUSHBUTTON      "X",IDC_BUTTON_X,60,120,30,24
+    PUSHBUTTON      "C",IDC_BUTTON_C,96,120,30,24
+    PUSHBUTTON      "V",IDC_BUTTON_V,132,120,30,24
+    PUSHBUTTON      "B",IDC_BUTTON_B,168,120,30,24
+    PUSHBUTTON      "N",IDC_BUTTON_N,204,120,30,24
+    PUSHBUTTON      "",IDC_BUTTON_SPC,102,150,204,18
+    PUSHBUTTON      "M",IDC_BUTTON_M,240,120,30,24
+    PUSHBUTTON      "ABCDEF",IDC_BUTTON_UPLOW,30,150,60,18
+END
+
+IDD_SPIN_DIALOG DIALOGEX 0, 0, 224, 187
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "Invia",ID_SEND_DATA,168,114,45,24
+END
+
+IDD_AREA_DIALOG DIALOGEX 0, 0, 152, 152
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "Up",ID_MOVE_UP,60,6,33,30,BS_BITMAP
+    PUSHBUTTON      "Close",ID_CLOSE,84,132,45,18
+    PUSHBUTTON      "Down",ID_MOVE_DOWN,60,78,33,30,BS_BITMAP
+    PUSHBUTTON      "Left",ID_MOVE_LEFT,24,42,33,30,BS_BITMAP
+    PUSHBUTTON      "Right",ID_MOVE_RIGHT,96,42,33,30,BS_BITMAP
+    PUSHBUTTON      "Index",ID_INDEX,24,132,42,18
+    CTEXT           "Static",IDC_CURRENT,12,114,126,12,WS_BORDER,WS_EX_CLIENTEDGE
+    PUSHBUTTON      "Hor_red",ID_HOR_REDUCE,24,6,33,30,BS_BITMAP
+    PUSHBUTTON      "Hor_enl",ID_HOR_ENLARGE,24,78,33,30,BS_BITMAP
+    PUSHBUTTON      "Ver_red",ID_VER_REDUCE,96,6,33,30,BS_BITMAP
+    PUSHBUTTON      "Ver_enl",ID_VER_ENLARGE,96,78,33,30,BS_BITMAP
+END
+
+IDD_INFO_BOX DIALOGEX 0, 0, 316, 199
+STYLE DS_SYSMODAL | DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "Close",IDOK,259,178,50,14
+END
+
+IDD_HEIGHT_DIALOG DIALOGEX 0, 0, 174, 153
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+END
+
+IDD_GRAPHICS_DIALOG DIALOGEX 0, 0, 225, 145
+STYLE DS_SETFONT | DS_3DLOOK | DS_CENTER | WS_POPUP | WS_BORDER | WS_SYSMENU
+FONT 10, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    PUSHBUTTON      "Invia",ID_SEND_DATA,87,101,45,24
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_INFO_WINDOW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 202
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 46
+    END
+
+    IDD_INPUT_FIGURES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 160
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 151
+    END
+
+    IDD_RECIPE_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 241
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 217
+    END
+
+    IDD_CFR21_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        TOPMARGIN, 7
+    END
+
+    IDD_CFR21_NEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        TOPMARGIN, 7
+    END
+
+    IDD_CFR21_SHOW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        TOPMARGIN, 7
+    END
+
+    IDD_CONTAINER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 147
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 187
+    END
+
+    IDD_INPUT_STRING, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 417
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 167
+    END
+
+    IDD_SPIN_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 217
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 180
+    END
+
+    IDD_AREA_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 145
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 145
+    END
+
+    IDD_INFO_BOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 309
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 192
+    END
+
+    IDD_HEIGHT_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 167
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 146
+    END
+
+    IDD_GRAPHICS_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 218
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 138
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\blue.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_ARROW_DOWN          BITMAP                  "res\\arrow_down.bmp"
+IDB_ARROW_LEFT          BITMAP                  "res\\arrow_left.bmp"
+IDB_ARROW_UP            BITMAP                  "res\\arrow_up.bmp"
+IDB_ARROW_RIGHT         BITMAP                  "res\\arrow_right.bmp"
+IDB_HOR_ENLARGE         BITMAP                  "res\\hor_enlarge.bmp"
+IDB_HOR_REDUCE          BITMAP                  "res\\hor_reduce.bmp"
+IDB_VER_ENLARGE         BITMAP                  "res\\vert_enlarge.bmp"
+IDB_VER_REDUCE          BITMAP                  "res\\vert_reduce.bmp"
+IDB_BITMAP3             BITMAP                  "res\\LOGO_330x64.bmp"
+IDB_BITMAP5             BITMAP                  "res\\LOGO_80x80.bmp"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#include ""res\\Vsqk.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Italiano (Italia) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#include "res\Vsqk.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
